@@ -1,0 +1,15 @@
+Antygona Sofokles 1 1 1 1 1
+Lalka Prus 2 0 0 0 0
+Potop Sienkiewicz 3 0 0 0 0
+Molier Skapiec 4 0 0 0 5
+Makbet Szekspir 5 0 0 0 0
+Kordian Slowacki 6 0 0 0 0
+Przedwiosnie Zeromski 7 0 0 0 0
+Ferdydurke Gombrowicz 8 0 0 0 0
+Dzuma Camus 9 0 0 0 0
+Wesele Wyspianski 10 0 0 0 0
+Tango Mrozek 11 0 0 0 0
+Dziady Mickiewicz 12 0 0 0 0
+Krzyzacy Sienkiewicz 13 0 0 0 0
+Calineczka Andersen 14 0 0 0 0
+Zemsta Fredro 15 0 0 0 0
